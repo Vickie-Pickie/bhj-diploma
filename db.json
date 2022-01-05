@@ -23,6 +23,24 @@
       "email": "rty@rty.ru",
       "password": "123",
       "id": "nyi9f9nckxrtt3wy"
+    },
+    {
+      "name": "booo",
+      "email": "mail@mail.ru",
+      "password": "123",
+      "id": "nyi9ffpkky22zcvf"
+    },
+    {
+      "name": "vooo",
+      "email": "goo@goo.ru",
+      "password": "123",
+      "id": "nyi9ffpyky230hm7"
+    },
+    {
+      "name": "bvbvbv",
+      "email": "m@m.ru",
+      "password": "123",
+      "id": "nyi9ffr5ky23chbp"
     }
   ],
   "accounts": [
@@ -50,6 +68,11 @@
       "name": "bobo",
       "user_id": "nyi9f9likxrtk75f",
       "id": "nyi9fccakxxv2o31"
+    },
+    {
+      "name": "wer",
+      "user_id": "nyi9ffr5ky23chbp",
+      "id": "nyi9ffraky23cnsi"
     }
   ],
   "transactions": [
@@ -232,6 +255,15 @@
       "account_id": "nyi9fccakxxv2o31",
       "user_id": "nyi9f9likxrtk75f",
       "created_at": "2022-01-02T23:13:11.377Z"
+    },
+    {
+      "id": "nyi9ffrdky23cucy",
+      "type": "income",
+      "name": "qqq",
+      "sum": 111,
+      "account_id": "nyi9ffraky23cnsi",
+      "user_id": "nyi9ffr5ky23chbp",
+      "created_at": "2022-01-05T22:07:31.761Z"
     }
   ]
 }

@@ -27,10 +27,6 @@ class User {
    * */
   static current() {
     let user = localStorage.getItem("user");
-    if (!user) {
-      return null;
-    }
-
     return JSON.parse(user);
   }
 
